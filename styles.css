@@ -1,0 +1,19 @@
+html {
+color: Black;
+background-color: pink;
+margin: auto;
+width: 50%;
+}
+.main {
+    color: greenyellow;
+   
+}
+h2 {
+    font-style: italic
+}
+.topnav {
+    font-size: 40px;
+}
+.maxPage{
+    background-color: greenyellow;
+}
